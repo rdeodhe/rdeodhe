@@ -19,7 +19,7 @@ public class cc extends abstract_study
 	}
 	
 	
-	
+	//hello check for git hub
 	
 
 	public void sample() 
